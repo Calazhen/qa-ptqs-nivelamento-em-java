@@ -14,8 +14,10 @@
 - Parâmetrização
 - Métodos
 - Encapsulamento
+- Enums
 - Herança
 - Polimorfismo
+- Interface
 
 ## Contatos
 
