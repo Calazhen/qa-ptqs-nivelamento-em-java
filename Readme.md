@@ -23,8 +23,8 @@
 
 Conheça o mentor que foram referência para o projeto:
 
-[Júlio de lima] (https://www.linkedin.com/in/juliodelimas/)
+[Júlio de lima](https://www.linkedin.com/in/juliodelimas/)
 
-Caso tenha alguma dúvida poderá entrar em contato pelo meu [Linkedin] (https://www.linkedin.com/in/henrique-calazans/)
+Caso tenha alguma dúvida poderá entrar em contato pelo meu [Linkedin](https://www.linkedin.com/in/henrique-calazans/)
 
 Bora se conectar? =]
